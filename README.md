@@ -1,6 +1,6 @@
 # Calculator Application
 
-Welcome to **Utsa's Calculator**, a simple and user-friendly calculator application that performs basic arithmetic operations like addition, subtraction, multiplication, and division. This calculator app is designed to provide a seamless experience with an intuitive interface.
+Welcome to **Calculator Application**, a simple and user-friendly calculator application that performs basic arithmetic operations like addition, subtraction, multiplication, and division. This calculator app is designed to provide a seamless experience with an intuitive interface.
 
 🌐 **Application Link**:  
 [Utsa's Calculator](file:///F:/Placements/WEB%20DEVELOPMENT/Utsa's%20Calculator/index.html)  
